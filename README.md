@@ -8,8 +8,10 @@
 
 https://www.facebook.com/groups/2165074817079710
 
-## その他、TEIをテーマとする過去のイベント（当分科会主催イベント以外も含む）
+## その他、TEIを主なテーマとするイベント（当分科会主催イベント以外も含む）
 
+* 2022/12/18 「[第27回 情報知識学フォーラム「人文学テキストを通じた研究データ共有」](http://www.jsik.jp/?forum2022)」情報知識学会
+* 2022/11/6/ 「TEI利活用セミナー」
 * 2022/10/10 「[TEI入門セミナー](https://digitalnagasaki.hatenablog.com/entry/2022/10/07/125611)」
 * 2022/8/18 「[『人文学のためのテキストデータ構築入門』刊行記念TEI入門セミナー](https://digitalnagasaki.hatenablog.com/entry/2022/08/16/212955)」
 * 2022/3/29-30 「[KUDH Basics: 人文学資料デジタル化の基礎知識・TEIワークショップ](https://www.bun.kyoto-u.ac.jp/events/kudh-basics-tei/)」京都大学大学院文学研究科附属文化遺産学・人文知連携センター　人文知連携拠点
