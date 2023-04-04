@@ -10,7 +10,7 @@ https://www.facebook.com/groups/2165074817079710
 
 ## その他、TEIを主なテーマとするイベント（当分科会主催イベント以外も含む）
 
-* 2023/2/21 「[デジタルカタログとデジタルライブラリー：コレクションデータのためのTEIの活用(https://connectivity.aa-ken.jp/activity/1140/)」
+* 2023/2/21 「[デジタルカタログとデジタルライブラリー：コレクションデータのためのTEIの活用](https://connectivity.aa-ken.jp/activity/1140/)」
 * 2023/2/18 「[インターフェースを越えて：デジタル人文学のためのデータとしてのTEI](https://connectivity.aa-ken.jp/activity/1140/)」
 * 2022/12/18 「[第27回 情報知識学フォーラム「人文学テキストを通じた研究データ共有」](http://www.jsik.jp/?forum2022)」情報知識学会
 * 2022/11/5 「TEI利活用セミナー」
